@@ -1,0 +1,19 @@
+{
+    "name": "diegobrine269/menuvirtual",
+
+    "authors": [
+        {
+            "name": "Diego Oloarte",
+            "email": "diegooloarte269@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Diegobrine269\\Menuvirtual\\": "src/",
+            "Models\\" : "./models",
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers"
+        }
+    }
+}
